@@ -1,0 +1,1 @@
+{"name": "telegram-bot","version": "1.0.0","description": "A Telegram bot","main": "index.js","scripts": {"start": "node index.js"},"dependencies": {"node-telegram-bot-api": "^0.50.0","dotenv": "^10.0.0","axios": "^0.21.1"},"author": "murilosilvadacosta6ano-creator","license": "MIT"}
